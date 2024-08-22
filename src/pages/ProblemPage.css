@@ -1,0 +1,8 @@
+.problem-container{
+    display: flex;
+    width: 100%; /* Ensure the container takes full width */
+}
+
+.problem-container div{
+    flex: 1;
+}
